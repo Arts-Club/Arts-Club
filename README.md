@@ -1,4 +1,6 @@
-## Treehouse
+## Arts Club
 
-This repo is for all my courses file completed through teamtreehouse.com
+this is a test colab. 🕶️
+
+Team Members: Alejandro Jimenez & Nathan Thomas
 
